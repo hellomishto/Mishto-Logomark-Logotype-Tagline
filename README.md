@@ -1,4 +1,11 @@
 # Mishto Logomark-Logotype-Tagline
+Download Vectorpack:
+* [Mishto-LogomarkLogotypeTagline-v1.000-Vector.tar.gz](https://github.com/hellomishto/Mishto-Logomark-Logotype-Tagline/releases/download/v1.000/Mishto-LogomarkLogotypeTagline-v1.000-Vector.tar.gz)
+* [Mishto-LogomarkLogotypeTagline-v1.000-Vector.zip](https://github.com/hellomishto/Mishto-Logomark-Logotype-Tagline/releases/download/v1.000/Mishto-LogomarkLogotypeTagline-v1.000-Vector.zip)
+
+Download Rasterpack:
+* [Mishto-LogomarkLogotypeTagline-v1.000-Raster.tar.gz](https://github.com/hellomishto/Mishto-Logomark-Logotype-Tagline/releases/download/v1.000/Mishto-LogomarkLogotypeTagline-v1.000-Raster.tar.gz)
+* [Mishto-LogomarkLogotypeTagline-v1.000-Raster.zip](https://github.com/hellomishto/Mishto-Logomark-Logotype-Tagline/releases/download/v1.000/Mishto-LogomarkLogotypeTagline-v1.000-Raster.zip)
 
 ## Mishto Logomark Raisin-White
 ![Mishto Logomark Raisin White](https://github.com/hellomishto/Mishto-Logomark-Logotype-Tagline/blob/master/MishtoLogomark-RaisinWhite.svg)
